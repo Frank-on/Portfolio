@@ -1,1 +1,9 @@
-# franklin.github.io
+# Data Analysis Portfolio
+
+## About me
+
+### Work experience
+
+### Education backgound
+
+## Projects
