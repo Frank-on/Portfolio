@@ -8,10 +8,13 @@ My name is Franklin, a data enthusiast with two years of practcial experience in
 - Python (Jupyter Notebooks, Colab)
 - SQL (MySQL)
 - MS Excel (VBA, analytics toolkit)
+- Visualization (Tableau, PowerBI)
 
 ### Work experience
 
 ### Projects
+
+** Branch by branch general insurance analysis**
 
 ### Education backgound
 
