@@ -1,7 +1,7 @@
 # Data Analysis Portfolio
 
 ## About me
-My name is Franklin, a data enthusiast with two years of practcial experience in data analysis and visualization. I also have a longer experience in other non-tech roles including as a life insurance policy conseravation analyst and accountant.  
+My name is Franklin, a data enthusiast with two years of practcial experience in data analysis and visualization. I also have a longer experience in other non-tech roles including as a life insurance policy conseravation analyst and accountant. This porfolio covers relevant expeience and activities that showacase my abilities as data analyst. 
 
 ### Tools
 
