@@ -14,7 +14,13 @@ My name is Franklin, a data enthusiast with two years of practcial experience in
 
 ### Projects
 
-  #### Branch by branch general insurance analysis
+  #### Branch general insurance analysis
+
+
+  ### Life insurance churn analysis
+
+
+  ### FMCG Sales analysis
 
 
 ### Education backgound
