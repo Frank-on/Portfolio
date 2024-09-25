@@ -1,10 +1,8 @@
 # Data Analysis Portfolio
+
 📍 Nairobi
-
 📧 Email: Onganyofrank@gmail.com
-
-🔗 LinkedIn: Franklin[https://www.linkedin.com/in/franklin_onyango]
-
+🔗 LinkedIn: [Franklin](https://www.linkedin.com/in/franklin_onyango)
 👨💻 GitHub: Franklin
 
 ## About Me
