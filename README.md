@@ -1,28 +1,29 @@
 # Data Analysis Portfolio
+📍 Nairobi
+📧 Email: Onganyofrank@gmail.com
+🔗 LinkedIn: Franklin[https://www.linkedin.com/in/franklin_onyango]
+👨💻 GitHub: Franklin
 
-## About me
-My name is Franklin, a data enthusiast with two years of practcial experience in data analysis and visualization. I also have a longer experience in other non-tech roles including as a life insurance policy conseravation analyst and accountant. This porfolio covers relevant expeience and activities that showacase my abilities as data analyst. 
+## About Me
+My name is Franklin, a data enthusiast with two years of practical experience in data analysis and currently transitioning to data science. I have a longer experience in other non-tech roles including as a life insurance policy conservation analyst and accountant. This portfolio covers relevant experience and activities that showcase my abilities as a data analyst. 
 
-### Tools
+## Tech toolbox
+- **Languages**: Python, SQL
+- Methodologies: Time series analysis, A/B Testing, Natural Language Processing, 
+- Tools: 	MySQL, Tableau, PowerBI, Amazon Web Services (AWS), MS Excel 
 
-- Python (Jupyter Notebooks, Colab)
-- SQL (MySQL)
-- MS Excel (VBA, analytics toolkit)
-- Visualization (Tableau, PowerBI)
 
-### Work experience
-
-### Projects
+## Projects
 
   #### Branch general insurance analysis
 
 
-  ### Life insurance churn analysis
+  #### Life insurance churn analysis
 
 
-  ### FMCG Sales analysis
+  #### FMCG Sales analysis
+
+## Work experience
 
 
-### Education backgound
-
-
+## Education background
