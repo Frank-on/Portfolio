@@ -10,7 +10,7 @@ My name is Franklin, a data enthusiast with two years of practical experience in
 
 ## Tech toolbox
 - **Languages:** Python, SQL
-- **Methodologies:** Time series analysis, A/B Testing, Natural Language Processing, 
+- **Methodologies:** Time series analysis, A/B Testing, Natural Language Processing, Regression, Cluster analysis, 
 - **Tools:** 	MySQL, Tableau, PowerBI, Amazon Web Services (AWS), MS Excel 
 
 
