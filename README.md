@@ -14,7 +14,7 @@ My name is Franklin, a data enthusiast with two years of practical experience in
 - **Tools:** 	MySQL, Tableau, PowerBI, Amazon Web Services (AWS), MS Excel 
 
 
-## Projects
+## **Projects**
 
   ### Branch general insurance analysis
 
